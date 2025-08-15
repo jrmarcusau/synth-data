@@ -1,0 +1,8 @@
+venv/
+data/
+outputs/
+__pycache__
+*.pth
+*.pt
+**/inference_output/
+
