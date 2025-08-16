@@ -4,5 +4,4 @@ outputs/
 __pycache__
 *.pth
 *.pt
-**/inference_output/
-
+inference/

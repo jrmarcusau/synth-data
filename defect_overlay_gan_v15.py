@@ -22,7 +22,7 @@ from tqdm import tqdm
 # ---------------------------- config ---------------------------------
 ROOT_GOOD, ROOT_DEFECT = "data/good", "data/defect"
 RES_TRAIN, RES_FULL    = 256, 1024
-EPOCHS,  BATCH,  LR    = 50, 4, 2e-4
+EPOCHS,  BATCH,  LR    = 200, 4, 2e-4
 BETA1                   = 0.5
 R1_GAMMA                = 0.001          # gradient penalty weight
 NZ                      = 1              # noise chan
